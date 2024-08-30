@@ -7,52 +7,32 @@ Brand Wranglers is an interactive Augmentend Reality (AR) mini-game that showcas
 **Structure**
 
 Body.html Logic - Controls the image target detection, and any entities that appear in the project such as the tiles.
-
 Head.html Logic - Loads in dependencies like aframe and initializes splash screen components like interactive buttons
-
 App.js Logic - imports and ensures that necessary components are loaded.
 
 **Components**
 
 Game Manager - A component that manages the tile matching game and congrats screen.
-
 Components - A component that manages the “Explore Projects” hyperlink that appears after the experience is over.
-
 Congrats Screen - A component that manages congrats screen functionalities.
-
 Guide Image - A component that shows and hides the visual prompt for users to find the target image.
-
 Splash Screen - A component that manages the display of introductory content and user interaction before accessing the main application.
-
 Tile - A helper component that contains data for the tile and handles flipping and click events.
-
 Background Music - A component that stops and plays the background music.
-
 Sfxs - A component that plays different sound effects and removes it at the end.
 
 **Legacy Code**
 
 Flip Tile - Component that flips tile back and forth (and when applied to all tiles, any tile could flip).
-
 Tap Turn - Legacy code for testing turning functionality for tiles when tapped.
 
 
 # Attribution
 - All 3D Assets created by Sam Obuobi (istarshieldsi@gmail.com)
-
-
 - UX created by Victor Lopez (Vomarlopez56@gmail.com)
-
-
 - UI/Creative Direction by Garrett Mixon (garrett.mixon123@gmail.com)
-
-
 - Co-Development by Nick Kang (knick2432@gmail.com)
-
-
 - Project Management/Co-Development by Kelly Zhang (kellyzhang324@gmail.com)
-
-
 - QA by Zachary Simchak (zsimchak36@gmail.com)
 
 --- Asset Credits ---
