@@ -1,7 +1,8 @@
 # Subvrsive_Brand_Wrangler
 Brand Wranglers is an interactive Augmentend Reality (AR) mini-game that showcases Subvrsive’s creative and technical expertise. Using their mobile devices, participants transform the cowboy artwork at Subvrsive Headquarters into an engaging brand-matching game. This experience seamlessly blends the physcial and digital worlds, creating a memorable and immersive adventure.
 
-
+![4zhsw0ejy0tlasd077gcn2s1uajgo9opd0q72zhz43lwcqamij61e44l-270x480](https://github.com/user-attachments/assets/9366fb1f-fcd3-4b8d-b6e1-bc249b495339)
+<img src="https://github.com/user-attachments/assets/9366fb1f-fcd3-4b8d-b6e1-bc249b495339" width="1" height="1" />
 # Technical Overview
 **Structure**
 
